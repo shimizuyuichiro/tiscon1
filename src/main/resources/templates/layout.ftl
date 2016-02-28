@@ -47,10 +47,10 @@
  _________________________________________________________ -->
     <div id="top">
         <div class="container">
-            <div class="col-md-6 offer" data-animate="fadeInDown">
-                <a href="#" class="btn btn-success btn-sm" data-animate-hover="shake">Offer of the day</a>  <a href="#">Get flat 35% off on orders over $50!</a>
+            <div class="col-md-6 offer">
+                <a href="#" class="btn btn-success btn-sm">Offer of the day</a>  <a href="#">Get flat 35% off on orders over $50!</a>
             </div>
-            <div class="col-md-6" data-animate="fadeInDown">
+            <div class="col-md-6">
                 <ul class="menu">
                     <#if principal??>
                     <li class="dropdown yamm-fw">
@@ -120,7 +120,7 @@
         <div class="container">
             <div class="navbar-header">
 
-                <a class="navbar-brand home" href="/" data-animate-hover="bounce">
+                <a class="navbar-brand home" href="/">
                     <img src="/img/TISCON_LOGO.png" alt="TISCON logo" class="hidden-xs">
                     <img src="/img/TISCON_LOGO.png" alt="TISCON logo" class="visible-xs"><span class="sr-only">go to homepage</span>
                 </a>
@@ -239,7 +239,7 @@
 
         <!-- *** FOOTER ***
  _________________________________________________________ -->
-        <div id="footer" data-animate="fadeInUp">
+        <div id="footer" >
             <div class="container">
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
@@ -322,8 +322,8 @@
                         <h4>Stay in touch</h4>
 
                         <p class="social">
-                            <a href="http://www.facebook.com/tis.recruit" class="facebook external" data-animate-hover="shake"><i class="fa fa-facebook"></i></a>
-                            <a href="mailto:recruit★tis.co.jp" class="email external" data-animate-hover="shake"><i class="fa fa-envelope"></i></a>
+                            <a href="http://www.facebook.com/tis.recruit" class="facebook external"><i class="fa fa-facebook"></i></a>
+                            <a href="mailto:recruit★tis.co.jp" class="email external"><i class="fa fa-envelope"></i></a>
                             <h6>メールアドレスの★を@に変換してください。</h6>
                         </p>
 
