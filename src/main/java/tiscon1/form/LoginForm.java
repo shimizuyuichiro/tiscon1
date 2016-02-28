@@ -15,4 +15,5 @@ public class LoginForm implements Serializable {
 
     @NotEmpty
     private String password;
+
 }
